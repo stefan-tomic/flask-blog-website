@@ -1,5 +1,5 @@
 # flask-blog-website
-A Blog Website built with Flask and SQLAlchemy
+A Blog Website built with Flask and SQLAlchemy, used 100 Days Of Python Udemy Course
 
 Technologies and techniques used:
 * decorator functions
