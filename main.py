@@ -9,7 +9,6 @@ from functools import wraps
 from werkzeug.security import generate_password_hash, check_password_hash
 from sqlalchemy.orm import relationship
 from forms import CreatePostForm, RegisterForm, LoginForm, CommentForm
-# Optional: add contact me email functionality (Day 60)
 import smtplib
 import os
 
